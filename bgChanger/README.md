@@ -12,7 +12,7 @@ A simple React project that allows users to change the background color by click
 
 ## 📌 Preview
 
-## ![Background Color Changer](https://github.com/laksssshhhhya/react-concepts-projects/issues/1#issue-2828214703)
+## ![Background Color Changer](https://github.com/user-attachments/assets/c5cb8a95-0379-42f7-ac32-57b25b3b2436)
 
 ---
 
