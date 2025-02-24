@@ -72,4 +72,4 @@ react-concepts-projects/
 
 Here’s how the app looks:
 
-![Preview](PasswordGenerator/Screenshot/Password-generator.png)
+![Preview](Screenshot/Password-generator.png)
