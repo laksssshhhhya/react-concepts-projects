@@ -7,7 +7,7 @@ This is a simple **password generator** built using React and hooks like `useSta
 - Adjustable password length (6 to 20 characters)
 - Option to include numbers
 - Option to include special characters
-- One-click copy to clipboard functionality
+- One-click copy-to-clipboard functionality
 
 ## Installation & Setup
 
